@@ -1,0 +1,149 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+   color: #000000;
+   font-family: 'Poppins', sans-serif;
+}
+p{
+    color:  #C2C8DA;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+    
+
+
+/* nav section start */
+
+/* nav section end  */
+
+
+
+/* header section start  */
+.Header {
+    background-image: url(./header\ background.png);
+}
+
+.white-background {
+    background-image: url(./payday\ backgrond.png);
+    padding-left: 41px;
+    padding-top: 17px;
+}
+
+.yellow-background {
+    background-image: url(./word\ background.png);
+    padding-left: 41px;
+    padding-top: 17px;
+}
+.icon{
+    width: 24%;
+    height: 14%;
+    margin-top: 10px;
+}
+
+.shop.btn:hover{
+    background-color: aqua;
+}
+
+
+/* header section end  */
+
+/* sponser section start  */
+.Sponser{
+    background-color: #EBD96B;
+}
+/* sponser section end  */
+
+
+/* arrival section start  */
+
+.head img{
+    width: 186px;
+     height: 34.94px;
+     margin-left: 198px;
+}
+.Arrival .hoddies .fa-arrow-right-long{
+    margin-left: 18px;
+}
+.Arrival .coat .fa-arrow-right-long{
+    margin-left: 75px;
+    
+}
+.Arrival .t-shirt .fa-arrow-right-long{
+    margin-left: 95px;
+    
+}
+
+    /* arrival section end */
+
+/* payday sectio start  */
+/* .payday{
+    margin-top: 20px;
+    background-color: #EBD96D;
+} */
+
+    /* payday sectio end  */
+
+
+    /* young's Favourite section start  */
+
+    .young img{
+        width: 186px;
+     height: 34.94px;
+     margin-left: 275px;
+
+    }
+
+    .Young-Favourite .card-title .fa-solid{
+        margin-left: 130px;
+       
+    }
+      /* young's Favourite section end  */
+
+      /* join section start  */
+      .join{
+        background-color:  #E5C643;
+         
+      }
+
+      .form input{
+        background-color:white;
+        padding-left: 0px;
+         height: 39px;
+         border:none;
+        
+      }
+
+       .btn-dark{
+        bottom: 49px;
+        left: 875px;}
+      /* join section end  */
+
+   /* footer section start  */
+
+   .footer{
+    background-color: black;
+   }
+   .list-group-item{
+    background-color: black;  
+}
+
+.footer .fa-brands{
+    margin: 3px;
+    background-color: #EBD96B;
+    color: #000000;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.footer .fa-brands:hover{
+ color: aqua;
+}
+
+
+   
+/* footer section end  */
